@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>Blog</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Admin</word>
+            <word>Blog</word>
+            <word>endforeach</word>
+            <word>endif</word>
+            <word>endphp</word>
+            <word>endsection</word>
+            <word>Facebook</word>
+            <word>foreach</word>
+            <word>Galarry</word>
+            <word>Messagest</word>
+            <word>php</word>
+            <word>picgallery</word>
+            <word>postContent</word>
+            <word>Url</word>
+            <word>ViewFile</word>
+            <word>Vougish</word>
+            <word>Youtube</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

@@ -1,0 +1,70 @@
+<p>It makes me kind of sad to think that&nbsp;<em>Pok&eacute;mon Go</em>&nbsp;is now a year old.</p>
+<div class="fb-quote fb_iframe_widget"><iframe class="" title="fb:quote Facebook Social Plugin" src="https://www.facebook.com/v2.5/plugins/quote.php?app_id=122071082108&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df1a55318a8f2c1c%26domain%3Dmashable.com%26origin%3Dhttp%253A%252F%252Fmashable.com%252Ff241cb4e29cda28%26relation%3Dparent.parent&amp;container_width=950&amp;href=http%3A%2F%2Fmashable.com%2F2017%2F07%2F07%2Fpokemon-go-new-2017-features-you-missed-out-on%2F%3Futm_cid%3Dhp-n-1&amp;locale=en_US&amp;sdk=joey" name="f1eb27033cbb654" width="1000px" height="1000px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Actually sad is probably the wrong word &mdash; more nostalgic, maybe. When I think back to July and August last year it seemed like absolutely everyone in the world was playing it: friends, colleagues, family, random people in the street.</p>
+<p>You'd go out on your lunch break and you'd see people doing it: gleeful kids, surreptitious businessmen, strangers chatting to each other outside virtual gyms. The game created a frantic energy that makes this summer's fidget spinner craze look positively tiny in comparison.</p>
+<div class="see-also">
+<p class="see-also-link">SEE ALSO:&nbsp;<a href="http://mashable.com/2017/02/04/pokemon-go-game-ideas-2017/">7 things 'Pok&eacute;mon Go' badly needs in 2017</a></p>
+</div>
+<p>Anyway, it's now a year on and I'm still doggedly playing. So's my uncle. I introduced it to him last July, and he became even more obsessed with the game than me. He's now level 37, and I'm level 35.</p>
+<p>Obviously the game is nowhere near the same as it used to be in the weeks that followed its release. But anyone who tells you it's "dead" clearly hasn't seen thriving Reddit communities like&nbsp;<a href="https://www.reddit.com/r/TheSilphRoad/" target="_blank">The Silph Road</a>&nbsp;(which has almost a quarter of a million subscribers), or felt the renewed buzz of excitement when Niantic&nbsp;<a href="http://mashable.com/2017/06/19/pokemon-go-e3-2017/#CdOIzBuPgIqu">released a huge gym update</a>&nbsp;a couple of weeks back.</p>
+<p>Anyway, I'm not going to waffle on too much about why the game's still relevant. If the&nbsp;<a href="http://mashable.com/2017/07/06/pokemon-go-birthday/">anniversary</a>&nbsp;nostalgia has given you any urge at all to re-open the app, though, here are some of the cool new things you'll be greeted by.</p>
+<h2>Generation 2 Pok&eacute;mon</h2>
+<figure class="image">
+<p><a name="m!f84e"></a></p>
+<div class="microcontent-wrapper">
+<div class="microcontent-shares" data-description="" data-fragment="m!f84e" data-image="https://i.amz.mshcdn.com/ykAj3_qzEdkwXlUMbV2vVmdsVVc=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528989%2Fd6a5d6dc-ce29-4199-b423-21b94c6d9e73.jpg" data-url="">&nbsp;</div>
+<img class="" title="So many glorious new Pok&eacute;mon." src="https://i.amz.mshcdn.com/hbxMVXzBawUDPh1As-avmouhZm4=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528989%2Fd6a5d6dc-ce29-4199-b423-21b94c6d9e73.jpg" alt="So many glorious new Pok&eacute;mon." data-credit-name="sam haysom/pok&eacute;mon go/mashable composite" data-credit-provider="custom type" data-caption="So many glorious new Pok&eacute;mon." data-fragment="m!f84e" data-image="https://i.amz.mshcdn.com/ykAj3_qzEdkwXlUMbV2vVmdsVVc=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528989%2Fd6a5d6dc-ce29-4199-b423-21b94c6d9e73.jpg" data-micro="1" /></div>
+<figcaption class="image-caption">
+<p>So many glorious new Pok&eacute;mon.</p>
+</figcaption>
+<div class="image-credit">
+<p>IMAGE: SAM HAYSOM/POK&Eacute;MON GO/MASHABLE COMPOSITE</p>
+</div>
+</figure>
+<p>Generation 2 was finally&nbsp;<a href="http://mashable.com/2017/02/15/pokemon-go-generation-2-announcement/">launched</a>&nbsp;back in February, and saw over 80 new Pok&eacute;mon get added to the game.</p>
+<p>The big pink one above and on the left is Blissey, who'll you'll see a lot of in gyms nowadays (she may look friendly, but she's one of the toughest 'mon in the game now).</p>
+<h2>Sweet new items</h2>
+<figure class="image">
+<p><a name="m!3236"></a></p>
+<div class="microcontent-wrapper">
+<div class="microcontent-shares" data-description="" data-fragment="m!3236" data-image="https://i.amz.mshcdn.com/q3WaES6N8kBh56vW1JnnQIButh4=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528991%2Fe41b1afa-55e2-4ae4-8cde-7ba2efcb6101.jpg" data-url="">&nbsp;</div>
+<img class="" title="TMs, in particular, have been a huge addition." src="https://i.amz.mshcdn.com/NwoSQaTcFglszmS_uJ72fcF0YeY=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528991%2Fe41b1afa-55e2-4ae4-8cde-7ba2efcb6101.jpg" alt="TMs, in particular, have been a huge addition." data-credit-name="sam haysom/pok&eacute;mon go/mashable composite" data-credit-provider="custom type" data-caption="TMs, in particular, have been a huge addition." data-fragment="m!3236" data-image="https://i.amz.mshcdn.com/q3WaES6N8kBh56vW1JnnQIButh4=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528991%2Fe41b1afa-55e2-4ae4-8cde-7ba2efcb6101.jpg" data-micro="1" /></div>
+<figcaption class="image-caption">
+<p>TMs, in particular, have been a huge addition.</p>
+</figcaption>
+<div class="image-credit">
+<p>IMAGE: SAM HAYSOM/POK&Eacute;MON GO/MASHABLE COMPOSITE</p>
+</div>
+</figure>
+<p>The most recent&nbsp;<a href="http://mashable.com/2017/06/19/pokemon-go-e3-2017/#CdOIzBuPgIqu">big update</a>&nbsp;came a couple of weeks ago, and it introduced a bunch of awesome new stuff. One surprise addition was a handful of new items &mdash; Golden Razz Berrys make Pok&eacute;mon way easier to catch, Rare Candy can be fed to a specific Pok&eacute;mon and turned into a candy of that type, and TMs &mdash; a cool addition that anyone who played the Game Boy games will remember &mdash; let you teach a Pok&eacute;mon a new move.</p>
+<h2>Gym badges</h2>
+<figure class="image">
+<p><a name="m!cf13"></a></p>
+<div class="microcontent-wrapper">
+<div class="microcontent-shares" data-description="" data-fragment="m!cf13" data-image="https://i.amz.mshcdn.com/SYAwLwBnLE-yLnTkLeCP207-sJM=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529006%2Fd5b203b9-7b68-42e1-a155-3223407945b0.jpg" data-url="">&nbsp;</div>
+<img class="" title="You'll feel more like Ash than ever before." src="https://i.amz.mshcdn.com/jUW06r_TJQZAPCtBftcvWrokUq0=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529006%2Fd5b203b9-7b68-42e1-a155-3223407945b0.jpg" alt="You'll feel more like Ash than ever before." data-credit-name="sam Haysom/pok&eacute;mon go/mashable composite" data-credit-provider="custom type" data-caption="You'll feel more like Ash than ever before." data-fragment="m!cf13" data-image="https://i.amz.mshcdn.com/SYAwLwBnLE-yLnTkLeCP207-sJM=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529006%2Fd5b203b9-7b68-42e1-a155-3223407945b0.jpg" data-micro="1" /></div>
+<figcaption class="image-caption">
+<p>You'll feel more like Ash than ever before.</p>
+</figcaption>
+<div class="image-credit">
+<p>IMAGE: SAM HAYSOM/POK&Eacute;MON GO/MASHABLE COMPOSITE</p>
+</div>
+</figure>
+<p>Another thing anyone who played the Game Boy games will remember is gym badges. Since the&nbsp;<a href="http://mashable.com/2017/06/19/pokemon-go-e3-2017/#CdOIzBuPgIqu">gym revamp</a>&nbsp;that came with the big June update, these can now be collected like medals. You can upgrade them to bronze, silver, and gold by attacking and defending gyms, and they can be spun like Pok&eacute;stops to give you items.</p>
+<h2>Huge, collaborative battles</h2>
+<figure class="image">
+<p><a name="m!e63e"></a></p>
+<div class="microcontent-wrapper">
+<div class="microcontent-shares" data-description="" data-fragment="m!e63e" data-image="https://i.amz.mshcdn.com/7HxDWm7WsE7yN6n0uX-li0p_I8g=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529016%2F21bdb092-0ca7-4614-8aaa-518d94ac0ca8.jpg" data-url="">&nbsp;</div>
+<img class="" src="https://i.amz.mshcdn.com/YFsn0mXpOfw8FQPbWNDHvjMo8uM=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529016%2F21bdb092-0ca7-4614-8aaa-518d94ac0ca8.jpg" alt="" data-credit-name="sam haysom/pok&eacute;mon go/mashable composite" data-credit-provider="custom type" data-fragment="m!e63e" data-image="https://i.amz.mshcdn.com/7HxDWm7WsE7yN6n0uX-li0p_I8g=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F529016%2F21bdb092-0ca7-4614-8aaa-518d94ac0ca8.jpg" data-micro="1" /></div>
+<div class="image-credit">
+<p>IMAGE: SAM HAYSOM/POK&Eacute;MON GO/MASHABLE COMPOSITE</p>
+</div>
+</figure>
+<p>This is easily the coolest new thing Niantic has introduced to the game since its launch. Raids basically involve you and a team of up to 20 players taking on a super badass Pok&eacute;mon that hatches out of a giant egg above a gym: if you beat the Pok&eacute;mon, you get rewarded with the new items&nbsp;<em>and</em>you get a one-off chance to catch a smaller version of the monster. It's a great incentive to chat to random people or play the game in a group, and all in all it's a huge step towards what Niantic initially promised in the game's&nbsp;<a href="https://www.youtube.com/watch?v=2sj2iQyBTQs" target="_blank">trailer</a>&nbsp;(remember that group of people in Times Square battling Mewtwo)?&nbsp;</p>
+<p>Which finally brings us on to...</p>
+<h2>The hint of legendaries around the corner</h2>
+<p><iframe class="giphy-embed" src="https://giphy.com/embed/alJTFf7nnPXIQ?html5=true" width="625" height="408.00000000000006" frameborder="0"></iframe></p>
+<p>The introduction of Raids has finally introduced a game mechanic that make legendary Pok&eacute;mon a real, near-future possibility. There are currently four Raid levels of difficulty, but there have been&nbsp;<a href="http://mashable.com/2017/06/19/pokemon-go-e3-2017/">hints</a>&nbsp;of a fifth "legendary" level in the pipeline, which will finally allow players to get hold of Pok&eacute;mon like good 'ol Mewtwo. We don't know exactly when or how these legendaries will be introduced, but the beginning of real-world events like the upcoming&nbsp;<a href="https://support.pokemongo.nianticlabs.com/hc/en-us/articles/115008355307-Pok%C3%A9mon-GO-Fest-Chicago" target="_blank">Pok&eacute;mon GO Fest Chicago</a>&nbsp;could be just the place to kick things off...</p>
+<p>OK: so ultimately the game is nothing like what it was last summer. It'll never be quite like that again.&nbsp;</p>
+<p>But if you do have an itching to dust off that Pok&eacute;dex, now is a better time than ever before.</p>

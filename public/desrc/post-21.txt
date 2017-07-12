@@ -1,0 +1,116 @@
+<div>
+<p>এন্ড্রয়েড ডেভেলপার টুল ওপেন করলে প্রথমেই টুলটির বাম দিকের উপরের অংশে বিভিন্ন অপশন দেখতে পাবেন আপনি যদি প্রথম প্রোজেক্টটি ওপেন করতে চান তাহলে ক্লিক করুন</p>
+</div>
+<div>
+<p>File&gt;New&gt;Android Application Project</p>
+</div>
+<div>
+<p>&nbsp;<span lang="BN-BD">তখন আপনাকে নিচের ছবির মতন&nbsp;</span>স্ক্রিন<span lang="BN-BD">&nbsp;</span>প্রদর্শন&nbsp;করবে</p>
+</div>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part5.png" alt="" width="600" height="518" /></p>
+</div>
+<ul>
+<li><span lang="BN-BD">এখান থেকে আপনি&nbsp;</span>Application Name, Project Name, Package Name&nbsp;<span lang="BN-BD">পূরণ করে দিন&nbsp;</span><span lang="HI">।</span></li>
+<li><span lang="BN-BD">তারপর এখান থেকে&nbsp;</span>Required SDK&nbsp;<span lang="BN-BD">আপনি মিনিমাম যে&nbsp;</span>API&nbsp;<span lang="BN-BD">লেভেল ইউস করতে চান</span>,&nbsp;<span lang="BN-BD">তারপর&nbsp;</span>Target SDK&nbsp;<span lang="BN-BD">সিলেক্ট করে দিন।</span></li>
+<li><span lang="BN-BD">অন্যান্য অপশন গুলোও চেক করে নেক্সট এ ক্লিক করুন।</span></li>
+<li><span lang="BN-BD">তারপর আপনাকে নিচের ছবির মতন স্ক্রিন&nbsp;</span>প্রদর্শন&nbsp;করবে</li>
+</ul>
+<div>
+<p><span lang="BN-BD">&nbsp;<img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part6.png" alt="" width="600" height="530" /></span></p>
+</div>
+<ul>
+<li><span lang="BN-BD">এখান থেকে আপনি&nbsp;</span>Image, clipart&nbsp;<span lang="BN-BD">বা&nbsp;</span>Text&nbsp;<span lang="BN-BD">নিজের মতন সিলেক্ট করে নেক্সট এ ক্লিক করুন।</span></li>
+<li><span lang="BN-BD">তারপর আপনাকে নিচের ছবির মতন স্ক্রিন শো করবে</span></li>
+</ul>
+<div>
+<p><span lang="BN-BD">&nbsp;</span></p>
+<p><span lang="BN-BD">&nbsp;<img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part7.png" alt="" width="600" height="537" /></span></p>
+</div>
+<div>&nbsp;</div>
+<ul>
+<li><span lang="BN-BD">এখান থেকে আপনি নিজের মতন&nbsp;</span>Activity Name&nbsp;<span lang="BN-BD">পূরণ করে&nbsp;&nbsp;</span>Finish&nbsp;<span lang="BN-BD">এ ক্লিক করুন।</span></li>
+<li><span lang="BN-BD">তারপর দুটি ফাইল</span>, MainAcivity.java&nbsp;<span lang="BN-BD">এবং&nbsp;</span>activity_main.xml&nbsp;<span lang="BN-BD">ফাইল ওপেন হবে।</span></li>
+<li><span lang="BN-BD">আপাতত আমরা&nbsp;</span>activity_main.xml&nbsp;<span lang="BN-BD">নিয়ে আলোচনা করব।</span></li>
+<li>activity_main.xml&nbsp;<span lang="BN-BD">এ ক্লিক করলে নিচের দিকে দেখতে পাবেন দুইটা অপশন আছে</span>,&nbsp;<span lang="BN-BD">একটা&nbsp;</span>Graphical Layout,&nbsp;<span lang="BN-BD">অন্যটি&nbsp;</span>activity_main.xml</li>
+<li>Graphical Layout&nbsp;<span lang="BN-BD">এর বাম দিকে&nbsp;</span>Palette&nbsp;<span lang="BN-BD">এ বিভিন্ন অপশন ফিল্ড রয়েছে</span>,&nbsp;<span lang="BN-BD">যেখান থেকে আপনি অপশন ফিল্ড গুলো থেকে&nbsp; ইচ্ছামত&nbsp;&nbsp;</span>FirstApp&nbsp;<span lang="BN-BD">এর উপর ড্রাগ করতে পারবেন।</span></li>
+</ul>
+<div>
+<p><span lang="BN-BD">&nbsp;</span></p>
+<p><span lang="BN-BD">&nbsp;<img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part8.png" alt="" width="372" height="567" /></span></p>
+</div>
+<div>
+<p><span lang="BN-BD">এখন উদাহরনস্বরপ আপনি যদি ডিফল্ট&nbsp;</span>Hello World&nbsp;<span lang="BN-BD">টেক্সট মুছে দিয়ে&nbsp;</span>Form Widgets&nbsp;<span lang="BN-BD">থেকে Large</span>&nbsp;Text view&nbsp;<span lang="BN-BD">অ্যাপ স্ক্রিন এর উপর ড্রাগ করেন তাহলে&nbsp;</span>Hardcoded String&nbsp;<span lang="BN-BD">বা নিচের মতন সঙ্কেত প্রদর্শন করবে।</span></p>
+</div>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part10.png" alt="" width="305" height="206" /></p>
+</div>
+<div>
+<p><span lang="BN-BD">তা&nbsp; দূর করার জন্য আপনাকে&nbsp;</span>FirstApp&nbsp;<span lang="BN-BD">এর ফোল্ডার থেকে&nbsp;</span>FirstApp&gt;res&gt;values&gt;string.xml&nbsp;<span lang="BN-BD">ফাইলটি ওপেন করতে হবে&nbsp;</span><span lang="HI">।</span></p>
+</div>
+<div>
+<p><span lang="BN-BD">এবং এভাবে নতুন একটি লাইন কোড লিখতে হবে</span>&nbsp;<span lang="BN-BD">যেমন,</span></p>
+</div>
+<div>
+<div>
+<div id="highlighter_626095" class="syntaxhighlighter  java">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="gutter">
+<div class="line number1 index0 alt2">1</div>
+</td>
+<td class="code">
+<div class="container">
+<div class="line number1 index0 alt2"><code class="java plain">Hello This Is My First App</code></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>&nbsp;</div>
+<div>
+<p><span lang="BN-BD">তারপর&nbsp;</span>activity_main.xml&nbsp;<span lang="BN-BD">ফাইলটি ওপেন করে&nbsp;</span>TextView&nbsp;<span lang="BN-BD">তে&nbsp;</span>android:text="@string/FirstText"&nbsp;<span lang="BN-BD">কোডটি লিখে দিলে আর এরর প্রদর্শন করবে না। এভাবে টেক্সট সঙ্কেত দূর করা যায়।</span></p>
+</div>
+<div>
+<p><span lang="BN-BD">এবার অ্যাপ্লিকেশান টি রান করার জন্য&nbsp;</span>Android Virtual Device&nbsp;<span lang="BN-BD">বা&nbsp;</span>AVD manager&nbsp;<span lang="BN">সিলেক্ট করতে হবে</span>&nbsp;&nbsp; ,&nbsp;<span lang="BN-BD">নিচের</span><span lang="BN-BD">&nbsp;</span><span lang="BN">ছবির</span><span lang="BN">&nbsp;</span><span lang="BN-BD">মত</span><span lang="BN">ন</span><span lang="BN">&nbsp;</span><span lang="BN-BD">অপশন এ ক্লিক&nbsp;</span><span lang="BN">করুন</span></p>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/t.png" alt="" width="561" height="212" /></p>
+<p><span lang="BN">&nbsp;</span></p>
+</div>
+<div>
+<p><span lang="BN-BD">তারপর আপনাকে নিচের ছবির মতন স্ক্রিন শো করবে</span></p>
+</div>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part2.png" alt="" width="600" height="429" /></p>
+</div>
+<div>
+<p><span lang="BN">এখান থেকে&nbsp;</span>New&nbsp;<span lang="BN">সিলেক্ট করুন</span></p>
+</div>
+<div>
+<p><span lang="BN-BD">তারপর নিচের ছবির মতন স্ক্রিন&nbsp;</span>প্রদর্শন&nbsp;করবে</p>
+</div>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part3.png" alt="" width="412" height="691" /></p>
+</div>
+<ul>
+<li><span lang="BN">এখান থেকে&nbsp;</span>Avd Name, Device, Target&nbsp;&nbsp;<span lang="BN">সিলেক্ট করে&nbsp;</span>Ok&nbsp;<span lang="BN">বাটন ক্লিক করুন।</span></li>
+<li><span lang="BN">তারপর&nbsp;</span><span lang="BN-BD">নিচের ছবির মতন</span><span lang="BN-BD">&nbsp;</span>Start&nbsp;<span lang="BN">বাটন</span><span lang="BN">&nbsp;</span><span lang="BN">এ ক্লিক করুন।</span></li>
+</ul>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part41.png" alt="" width="600" height="374" /></p>
+</div>
+<ul>
+<li><span lang="BN">কিছুক্ষন পর&nbsp;</span>Emulator Device&nbsp;<span lang="BN">টি রান করবে।</span></li>
+<li><span lang="BN">তারপর সম্পূর্ণ&nbsp;</span>Loading&nbsp;<span lang="BN">প্রক্রিয়া শেষ হলে,&nbsp;</span>MainActivity.java&nbsp;<span lang="BN">তে গিয়ে নিচের ছবির মতন</span></li>
+<li><span lang="BN">রান বাটন এ ক্লিক করুন।</span></li>
+</ul>
+<div>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part9.png" alt="" width="600" height="167" /></p>
+</div>
+<div>
+<p><span lang="BN">তাহলেই&nbsp; কিছুক্ষন পর&nbsp;</span>Emulator Device<span lang="BN">&nbsp;এ&nbsp;</span><span lang="BN-BD">প্রদর্শন</span><span lang="BN-BD">&nbsp;</span><span lang="BN">করবে আপনার প্রথম&nbsp;</span>Android App !</p>
+<p><img class="aligncenter" src="http://s.techtunes.com.bd/tDrive/tuner/nriddhi/292445/part11.png" alt="" width="472" height="322" /></p>
+</div>
+</div>

@@ -1,0 +1,160 @@
+<p>In an alternate universe, the U.S. government is discussing a host of cybersecurity reforms to safeguard its electoral system after the Russian government waged a cyber-campaign to swing the election against Democratic presidential candidate Hillary Clinton.&nbsp;</p>
+<div class="fb-quote fb_iframe_widget">&nbsp;</div>
+<p>In this universe, the United States is led by President Donald Trump, who seems to go out of his way to blame others or downplay Russia's role in the cyber-campaign. On Thursday in Poland, Trump did it again.&nbsp;</p>
+<div class="see-also">
+<p class="see-also-link">SEE ALSO:&nbsp;<a href="http://mashable.com/2017/06/26/trump-tech-week-worthy-goal-photo-opp/">Trump&rsquo;s Tech Week did not make America great</a></p>
+</div>
+<p>"I think it could very well have been Russia but I think it well could have been other countries and&nbsp;<a href="http://www.npr.org/sections/thetwo-way/2017/07/06/535734514/trump-says-i-think-it-was-russia-and-others-also-in-election-meddling" target="_blank">I won't be specific</a>." That much is clear!</p>
+<p>Despite that the CIA, FBI, and NSA&nbsp;<a href="http://www.cnn.com/2017/07/06/politics/trump-intelligence-agencies-russia/index.html" target="_blank">all concluded that</a>&nbsp;Russia meddled in the election, Trump continues to deny and obfuscate the facts&mdash;and we kept track of every time he did it. &nbsp;</p>
+<h2>6/15/2016</h2>
+<p>After the Democratic National Committee was hacked in the run-up to the Trump-Clinton presidential debates, Trump said he didn't believe there had been any hacking at all.</p>
+<p>"We believe&nbsp;<a href="http://www.cnn.com/2016/06/15/politics/dnc-hack-donald-trump/" target="_blank">it was the DNC</a>&nbsp;that did the hacking as a way to distract from the many issues facing their deeply flawed candidate and failed party leader," Trump said at a campaign rally.</p>
+<p>The DNC hack, if you'll remember, led to the publication of emails meant to sour the public's relationship with Clinton, who was thought to be a runaway favorite to win the White House.&nbsp;</p>
+<h2>9/26/2016</h2>
+<figure class="image">
+<p><span class="lightbox-expand"><a name="m!2bce"></a></span></p>
+<div class="microcontent-wrapper for-lightbox">
+<div class="microcontent-shares" data-description="" data-fragment="m!2bce" data-image="https://i.amz.mshcdn.com/Yzbhya7yFBzIfiKeK2DqPulM4z8=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528730%2F317c9aa9-79d7-4708-8308-d80bff91e4fd.jpg" data-url="">&nbsp;</div>
+<img class="for-lightbox" title="Democrat Hillary Clinton and Republican Donald Trump shake hands at the start of the first presidential debate, at Hofstra University." src="https://i.amz.mshcdn.com/qKKE0CJN_OemYSKuFI5UTE6U7ag=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528730%2F317c9aa9-79d7-4708-8308-d80bff91e4fd.jpg" alt="Democrat Hillary Clinton and Republican Donald Trump shake hands at the start of the first presidential debate, at Hofstra University." data-credit-name="Justin Lane/Epa/REX/Shutterstock" data-credit-provider="custom type" data-caption="Democrat Hillary Clinton and Republican Donald Trump shake hands at the start of the first presidential debate, at Hofstra University." data-fragment="m!2bce" data-image="https://i.amz.mshcdn.com/Yzbhya7yFBzIfiKeK2DqPulM4z8=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528730%2F317c9aa9-79d7-4708-8308-d80bff91e4fd.jpg" data-micro="1" /></div>
+<figcaption class="image-caption">
+<p>Democrat Hillary Clinton and Republican Donald Trump shake hands at the start of the first presidential debate, at Hofstra University.</p>
+</figcaption>
+<div class="image-credit">
+<p>IMAGE: JUSTIN LANE/EPA/REX/SHUTTERSTOCK</p>
+</div>
+</figure>
+<p>Trump voiced skepticism about the Russian government's involvement in the DNC hack during the first presidential debate between him and Clinton.</p>
+<p>&ldquo;<a href="https://www.nytimes.com/interactive/2017/01/06/us/russian-hack-evidence.html?_r=0" target="_blank">I don't think anybody knows</a>&nbsp;it was Russia that broke into the DNC," Trump said. He then said "maybe it was," but added, "I mean, it could be Russia. But it could also be China. It could also be lots of other people. It also could be somebody sitting on their bed that weighs 400 pounds, OK?"</p>
+<h2>10/9/2016</h2>
+<p>The second presidential debate also featured a Russia denial from the future president.</p>
+<p>"[Hillary Clinton] doesn't know if it's the Russians doing the hacking," Trump said. "<a href="https://www.nytimes.com/2016/10/10/us/politics/transcript-second-debate.html" target="_blank">Maybe there is no hacking</a>. But they always blame Russia. And the reason they blame Russia because they think they're trying to tarnish me with Russia."</p>
+<h2>12/12/2016</h2>
+<p>Trump has occasionally resorted to the "who knew this was so hard?!" defense when something doesn't quite work out like he'd hoped, and in mid-December, after he'd won the presidential election, he tried something similar with news swirling about hackers in Russia.&nbsp;</p>
+<div class="twitter-wrapper sort-rerender">
+<div>
+<div class="SandboxRoot env-bp-350" data-twitter-event-id="0">
+<div id="twitter-widget-2" class="EmbeddedTweet EmbeddedTweet--edge js-clickToOpenTarget tweet-InformationCircle-widgetParent" lang="en" data-click-to-open-target="https://twitter.com/realDonaldTrump/status/808300706914594816" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-twitter-event-id="4">
+<div class="EmbeddedTweet-tweet">
+<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded
+                   is-deciderHtmlWhitespace" cite="https://twitter.com/realDonaldTrump/status/808300706914594816" data-tweet-id="808300706914594816" data-scribe="section:subject">
+<div class="Tweet-header u-cf">
+<div class="Tweet-brand u-floatRight">
+<div class="Icon Icon--twitter " title="">&nbsp;</div>
+<span class="u-hiddenInNarrowEnv"><a class="FollowButton FollowButton--edge follow-button profile" title="Follow Donald J. Trump on Twitter" href="https://twitter.com/realDonaldTrump" data-scribe="component:followbutton">&nbsp;Follow</a></span></div>
+<div class="TweetAuthor " data-scribe="component:author"><a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-avatar Identity-avatar"><img class="Avatar Avatar--edge" src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" alt="" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg" data-src-1x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" /></span><span class="TweetAuthor-name Identity-name customisable-highlight" title="Donald J. Trump" data-scribe="element:name">Donald J. Trump</span>&nbsp;</a>
+<div class="Icon Icon--verified " title="Verified Account">&nbsp;</div>
+<a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-verifiedBadge" data-scribe="element:verified_badge"><strong class="u-hiddenVisually">✔</strong></span><span class="TweetAuthor-screenName Identity-screenName" dir="ltr" title="@realDonaldTrump" data-scribe="element:screen_name">@realDonaldTrump</span></a></div>
+</div>
+<div class="Tweet-body e-entry-content" data-scribe="component:tweet">
+<p class="Tweet-text e-entry-title" dir="ltr" lang="en">Unless you catch "hackers" in the act, it is very hard to determine who was doing the hacking. Why wasn't this brought up before election?</p>
+<div class="Tweet-metadata dateline"><a class="u-linkBlend u-url customisable-highlight long-permalink" href="https://twitter.com/realDonaldTrump/status/808300706914594816" data-datetime="2016-12-12T13:21:20+0000" data-scribe="element:full_timestamp"><time class="dt-updated" title="Time posted: 12 Dec 2016, 13:21:20 (UTC)" datetime="2016-12-12T13:21:20+0000">7:21 PM - 12 Dec 2016</time></a></div>
+<ul class="Tweet-actions" data-scribe="component:actions">
+<li class="Tweet-action">
+<div class="Icon Icon--reply TweetAction-icon Icon--replyEdge" title="Reply">&nbsp;</div>
+</li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--retweet TweetAction-icon Icon--retweetEdge" title="Retweet">&nbsp;</div>
+<a class="TweetAction TweetAction--retweetEdge web-intent" href="https://twitter.com/intent/retweet?tweet_id=808300706914594816" data-scribe="element:retweet">&nbsp;<span class="TweetAction-stat" data-scribe="element:retweet_count">15,527</span><span class="u-hiddenVisually">15,527 Retweets</span></a></li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--heart TweetAction-icon Icon--heartEdge" title="Like">&nbsp;</div>
+<a class="TweetAction TweetAction--heartEdge web-intent" href="https://twitter.com/intent/like?tweet_id=808300706914594816" data-scribe="element:heart">&nbsp;<span class="TweetAction-stat" data-scribe="element:heart_count">59,018</span><span class="u-hiddenVisually">59,018 likes</span></a></li>
+</ul>
+</div>
+</blockquote>
+</div>
+<div class="tweet-InformationCircle--bottom tweet-InformationCircle"><a class="Icon Icon--informationCircleWhite" title="Twitter Ads info and privacy" href="https://support.twitter.com/articles/20175256"><span class="u-hiddenVisually">Twitter Ads info and privacy</span></a></div>
+</div>
+<div class="resize-sensor">&nbsp;</div>
+</div>
+</div>
+</div>
+<p>He's not wrong! But in this case, it's a little like having DNA evidence and several eyewitness accounts that place a suspect at the scene of a crime, but not charging that suspect because the suspect hasn't said, "I did the bad thing."</p>
+<h2>1/3/2017</h2>
+<p>The then president-elect mocked the idea of Russian government hacking in a tweet sent on Jan. 3 about an upcoming meeting with intelligence officials.&nbsp;</p>
+<div class="twitter-wrapper sort-rerender">
+<div>
+<div class="SandboxRoot env-bp-350" data-twitter-event-id="1">
+<div id="twitter-widget-3" class="EmbeddedTweet EmbeddedTweet--edge js-clickToOpenTarget tweet-InformationCircle-widgetParent" lang="en" data-click-to-open-target="https://twitter.com/realDonaldTrump/status/816452807024840704" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-twitter-event-id="5">
+<div class="EmbeddedTweet-tweet">
+<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded
+                   is-deciderHtmlWhitespace" cite="https://twitter.com/realDonaldTrump/status/816452807024840704" data-tweet-id="816452807024840704" data-scribe="section:subject">
+<div class="Tweet-header u-cf">
+<div class="Tweet-brand u-floatRight">
+<div class="Icon Icon--twitter " title="">&nbsp;</div>
+<span class="u-hiddenInNarrowEnv"><a class="FollowButton FollowButton--edge follow-button profile" title="Follow Donald J. Trump on Twitter" href="https://twitter.com/realDonaldTrump" data-scribe="component:followbutton">&nbsp;Follow</a></span></div>
+<div class="TweetAuthor " data-scribe="component:author"><a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-avatar Identity-avatar"><img class="Avatar Avatar--edge" src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" alt="" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg" data-src-1x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" /></span><span class="TweetAuthor-name Identity-name customisable-highlight" title="Donald J. Trump" data-scribe="element:name">Donald J. Trump</span>&nbsp;</a>
+<div class="Icon Icon--verified " title="Verified Account">&nbsp;</div>
+<a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-verifiedBadge" data-scribe="element:verified_badge"><strong class="u-hiddenVisually">✔</strong></span><span class="TweetAuthor-screenName Identity-screenName" dir="ltr" title="@realDonaldTrump" data-scribe="element:screen_name">@realDonaldTrump</span></a></div>
+</div>
+<div class="Tweet-body e-entry-content" data-scribe="component:tweet">
+<p class="Tweet-text e-entry-title" dir="ltr" lang="en">The "Intelligence" briefing on so-called "Russian hacking" was delayed until Friday, perhaps more time needed to build a case. Very strange!</p>
+<div class="Tweet-metadata dateline"><a class="u-linkBlend u-url customisable-highlight long-permalink" href="https://twitter.com/realDonaldTrump/status/816452807024840704" data-datetime="2017-01-04T01:14:52+0000" data-scribe="element:full_timestamp"><time class="dt-updated" title="Time posted: 04 Jan 2017, 01:14:52 (UTC)" datetime="2017-01-04T01:14:52+0000">7:14 AM - 4 Jan 2017</time></a></div>
+<ul class="Tweet-actions" data-scribe="component:actions">
+<li class="Tweet-action">
+<div class="Icon Icon--reply TweetAction-icon Icon--replyEdge" title="Reply">&nbsp;</div>
+</li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--retweet TweetAction-icon Icon--retweetEdge" title="Retweet">&nbsp;</div>
+<a class="TweetAction TweetAction--retweetEdge web-intent" href="https://twitter.com/intent/retweet?tweet_id=816452807024840704" data-scribe="element:retweet">&nbsp;<span class="TweetAction-stat" data-scribe="element:retweet_count">23,460</span><span class="u-hiddenVisually">23,460 Retweets</span></a></li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--heart TweetAction-icon Icon--heartEdge" title="Like">&nbsp;</div>
+<a class="TweetAction TweetAction--heartEdge web-intent" href="https://twitter.com/intent/like?tweet_id=816452807024840704" data-scribe="element:heart">&nbsp;<span class="TweetAction-stat" data-scribe="element:heart_count">80,185</span><span class="u-hiddenVisually">80,185 likes</span></a></li>
+</ul>
+</div>
+</blockquote>
+</div>
+<div class="tweet-InformationCircle--bottom tweet-InformationCircle"><a class="Icon Icon--informationCircleWhite" title="Twitter Ads info and privacy" href="https://support.twitter.com/articles/20175256"><span class="u-hiddenVisually">Twitter Ads info and privacy</span></a></div>
+</div>
+<div class="resize-sensor">&nbsp;</div>
+</div>
+</div>
+</div>
+<p>Trump followed up that tweet with another a few hours later in which he uses Wikileaks co-founder Julian Assange to make light of the notion that Moscow was behind the attacks.&nbsp;</p>
+<div class="twitter-wrapper sort-rerender">
+<div>
+<div class="SandboxRoot env-bp-350" data-twitter-event-id="2">
+<div id="twitter-widget-4" class="EmbeddedTweet EmbeddedTweet--edge js-clickToOpenTarget tweet-InformationCircle-widgetParent" lang="en" data-click-to-open-target="https://twitter.com/realDonaldTrump/status/816620855958601730" data-iframe-title="Twitter Tweet" data-dt-full="%{hours12}:%{minutes} %{amPm} - %{day} %{month} %{year}" data-dt-months="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" data-dt-am="AM" data-dt-pm="PM" data-dt-now="now" data-dt-s="s" data-dt-m="m" data-dt-h="h" data-dt-second="second" data-dt-seconds="seconds" data-dt-minute="minute" data-dt-minutes="minutes" data-dt-hour="hour" data-dt-hours="hours" data-dt-abbr="%{number}%{symbol}" data-dt-short="%{day} %{month}" data-dt-long="%{day} %{month} %{year}" data-scribe="page:tweet" data-twitter-event-id="3">
+<div class="EmbeddedTweet-tweet">
+<blockquote class="Tweet h-entry js-tweetIdInfo subject expanded
+                   is-deciderHtmlWhitespace" cite="https://twitter.com/realDonaldTrump/status/816620855958601730" data-tweet-id="816620855958601730" data-scribe="section:subject">
+<div class="Tweet-header u-cf">
+<div class="Tweet-brand u-floatRight">
+<div class="Icon Icon--twitter " title="">&nbsp;</div>
+<span class="u-hiddenInNarrowEnv"><a class="FollowButton FollowButton--edge follow-button profile" title="Follow Donald J. Trump on Twitter" href="https://twitter.com/realDonaldTrump" data-scribe="component:followbutton">&nbsp;Follow</a></span></div>
+<div class="TweetAuthor " data-scribe="component:author"><a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-avatar Identity-avatar"><img class="Avatar Avatar--edge" src="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" alt="" data-scribe="element:avatar" data-src-2x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_bigger.jpg" data-src-1x="https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg" /></span><span class="TweetAuthor-name Identity-name customisable-highlight" title="Donald J. Trump" data-scribe="element:name">Donald J. Trump</span>&nbsp;</a>
+<div class="Icon Icon--verified " title="Verified Account">&nbsp;</div>
+<a class="TweetAuthor-link Identity u-linkBlend" href="https://twitter.com/realDonaldTrump" data-scribe="element:user_link"><span class="TweetAuthor-verifiedBadge" data-scribe="element:verified_badge"><strong class="u-hiddenVisually">✔</strong></span><span class="TweetAuthor-screenName Identity-screenName" dir="ltr" title="@realDonaldTrump" data-scribe="element:screen_name">@realDonaldTrump</span></a></div>
+</div>
+<div class="Tweet-body e-entry-content" data-scribe="component:tweet">
+<p class="Tweet-text e-entry-title" dir="ltr" lang="en">Julian Assange said "a 14 year old could have hacked Podesta" - why was DNC so careless? Also said Russians did not give him the info!</p>
+<div class="Tweet-metadata dateline"><a class="u-linkBlend u-url customisable-highlight long-permalink" href="https://twitter.com/realDonaldTrump/status/816620855958601730" data-datetime="2017-01-04T12:22:38+0000" data-scribe="element:full_timestamp"><time class="dt-updated" title="Time posted: 04 Jan 2017, 12:22:38 (UTC)" datetime="2017-01-04T12:22:38+0000">6:22 PM - 4 Jan 2017</time></a></div>
+<ul class="Tweet-actions" data-scribe="component:actions">
+<li class="Tweet-action">
+<div class="Icon Icon--reply TweetAction-icon Icon--replyEdge" title="Reply">&nbsp;</div>
+</li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--retweet TweetAction-icon Icon--retweetEdge" title="Retweet">&nbsp;</div>
+<a class="TweetAction TweetAction--retweetEdge web-intent" href="https://twitter.com/intent/retweet?tweet_id=816620855958601730" data-scribe="element:retweet">&nbsp;<span class="TweetAction-stat" data-scribe="element:retweet_count">18,134</span><span class="u-hiddenVisually">18,134 Retweets</span></a></li>
+&nbsp;
+<li class="Tweet-action">
+<div class="Icon Icon--heart TweetAction-icon Icon--heartEdge" title="Like">&nbsp;</div>
+<a class="TweetAction TweetAction--heartEdge web-intent" href="https://twitter.com/intent/like?tweet_id=816620855958601730" data-scribe="element:heart">&nbsp;<span class="TweetAction-stat" data-scribe="element:heart_count">61,107</span><span class="u-hiddenVisually">61,107 likes</span></a></li>
+</ul>
+</div>
+</blockquote>
+</div>
+<div class="tweet-InformationCircle--bottom tweet-InformationCircle"><a class="Icon Icon--informationCircleWhite" title="Twitter Ads info and privacy" href="https://support.twitter.com/articles/20175256"><span class="u-hiddenVisually">Twitter Ads info and privacy</span></a></div>
+</div>
+<div class="resize-sensor">&nbsp;</div>
+</div>
+</div>
+</div>
+<h2>1/6/2017</h2>
+<p>The Donald didn't feel much differently after meeting with intelligence officials, either.</p>
+<p>In a statement he released following the meeting, Trump again refused to point directly at Moscow.&nbsp;</p>
+<p>&ldquo;While Russia, China, other countries, outside groups and people are consistently trying to break through the cyber infrastructure of our governmental institutions, businesses and organizations including the Democrat National Committee, there was absolutely no effect on the outcome of the election including the fact that there was no tampering whatsoever with voting machines," the Trump team wrote in the&nbsp;<a href="https://greatagain.gov/intel-meeting-3b6542ca6500" target="_blank">statement</a>.&nbsp;</p>

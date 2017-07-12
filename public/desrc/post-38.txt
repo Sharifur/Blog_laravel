@@ -1,0 +1,26 @@
+<p>One day, you're a terrible killing and eating machine. Flash forward 65 million years, and you're being conquered by a $150 gaming accessory.</p>
+<div class="fb-quote fb_iframe_widget"><iframe class="" title="fb:quote Facebook Social Plugin" src="https://www.facebook.com/v2.5/plugins/quote.php?app_id=122071082108&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df25a79707dd66f%26domain%3Dmashable.com%26origin%3Dhttp%253A%252F%252Fmashable.com%252Ff34e5cde693bbb%26relation%3Dparent.parent&amp;container_width=950&amp;href=http%3A%2F%2Fmashable.com%2F2017%2F07%2F06%2Fkinect-scans-t-rex-skull%2F%3Futm_cid%3Dhp-n-2&amp;locale=en_US&amp;sdk=joey" name="f16945e3ae526" width="1000px" height="1000px" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+<p>That's the new reality of the majestic T-Rex, reduced by time to fossilized remains. Of course, mysteries remain &mdash; and they could be solved with one of your favorite gaming devices.</p>
+<div class="see-also">
+<p class="see-also-link">SEE ALSO:&nbsp;<a href="http://mashable.com/2017/07/05/giant-crocodile-ancestor-trex-teeth/">A terrifying crocodile relative, with teeth like a T. rex, may have taken on dinosaurs</a></p>
+</div>
+<p>At Chicago's Field Museum of Natural History, scientists were curious about holes in the jaw of their own five-foot-long T-Rex skull. They wanted to capture a decent 3D image to investigate.&nbsp;</p>
+<p>MIT Media Lab's Camera Culture Group was working on some next-gen 3D scanning technology, Polarized 3D, but it wasn't ready, so they opted to try something simple and cheap that works in living rooms around the world: Microsoft's Kinect 3D sensor.</p>
+<p>Introduced in 2010,&nbsp;<a href="http://mashable.com/2010/06/15/kinect-cirque-de-soleil/">Microsoft Kinect</a>&nbsp;uses infrared cameras to produce a 3D mesh that covers objects and people in a room, creating a detailed depth map of the space. It's sensitive enough to identify individual fingers and can even see when you stick out your tongue. Microsoft's Xbox gaming console uses it for interactive action and sports games.&nbsp;</p>
+<p>For the Field Museum, the Camera Culture Group paired the devices with open source software from&nbsp;<a href="http://www.meshlab.net/" target="_blank">MeshLab</a>, which processes and edits the kind of 3D triangular meshes Microsoft Kinect produces.</p>
+<figure class="image">
+<p><a name="m!fd50"></a></p>
+<div class="microcontent-wrapper">
+<div class="microcontent-shares" data-description="" data-fragment="m!fd50" data-image="https://i.amz.mshcdn.com/Ix18iTUrzsOW5F-ezlq8IuzMC4c=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528225%2F77289454-be1d-4e57-be34-9f2c7a789e56.jpg" data-url="">&nbsp;</div>
+<img class="" title="A photo of the T-Rex skull (upper left) compared with Kinect scans." src="https://i.amz.mshcdn.com/I8uG_PoqnE9YaNg2LNZdfKTG6IY=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528225%2F77289454-be1d-4e57-be34-9f2c7a789e56.jpg" alt="A photo of the T-Rex skull (upper left) compared with Kinect scans." data-credit-name="MIT" data-credit-provider="custom type" data-caption="A photo of the T-Rex skull (upper left) compared with Kinect scans." data-fragment="m!fd50" data-image="https://i.amz.mshcdn.com/Ix18iTUrzsOW5F-ezlq8IuzMC4c=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F528225%2F77289454-be1d-4e57-be34-9f2c7a789e56.jpg" data-micro="1" /></div>
+<figcaption class="image-caption">
+<p>A photo of the T-Rex skull (upper left) compared with Kinect scans.</p>
+</figcaption>
+<div class="image-credit">
+<p>IMAGE: MIT</p>
+</div>
+</figure>
+<p>MIT's Media Lab reported their findings in the scientific journal&nbsp;<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179264" target="_blank">PLOS One</a>.</p>
+<p>According to the paper, "The depth resolution from the Kinect sensor was measured to be around 0.6 mm, which is ideal for scanning large specimens with reasonable structural detail."</p>
+<p>When used at home, Microsoft Kinect usually sits on a cabinet just below your TV. To scan the dinosaur skull, however, one of the researchers wore the device on a special harness so he could move it around and capture all the skull features. He had to do this while maintaining a fixed distance from the skull, otherwise the depth measurement would be completely off.&nbsp;</p>
+<p>The whole scan took about 2 minutes.</p>

@@ -1,0 +1,20 @@
+<p>আসসালামুয়ালাইকুম, কেমন আছেন সবাই, আশা করি ভালো আছেন।সবাইকে আন্তরিক শুভেচ্ছা জানিয়ে শুরু করছি।</p>
+<p>আজ আপনাদের জন্য নিয়ে এসেছি আরোও একটা সহজ&nbsp; ট্রিক্স। আশা করি আপনারা যারা প্রযুক্তিপ্রেমি তাদের ব্যাস্ত জীবনে একটু হলেও কাজে দিবে এই ট্রিক্সটি। আসুন শুরু করা যাক, যা লাগবে...</p>
+<ul>
+<li>ক) একটি ৩ ভোল্ট মোটর</li>
+<li>খ) একটি পুরাতন USB Cable</li>
+<li>গ) পেপসি/সেভেন আপ কর্ক</li>
+<li>ঘ) আঠা</li>
+<li>ঙ) ছোট পাইপ টুকরা</li>
+</ul>
+<p><strong>শুরুতে পেপসি/সেভেন আপ কর্কটি নিচের চিত্রের মত কেটে নিন...</strong></p>
+<p><a href="http://www.techtunes.com.bd/tips-and-tricks/tune-id/470879/attachment/dremel-tool-1" rel="attachment wp-att-470885"><img class="aligncenter size-full wp-image-470885" src="http://s.techtunes.com.bd/tDrive/tuner/sheikhalfaruque/470879/Dremel-Tool-1.jpg" alt="Dremel Tool" width="576" height="395" /></a></p>
+<p><strong>তারপর USB Cable টি নিচের চিত্রের মত কেটে নিন...</strong></p>
+<p><a href="http://www.techtunes.com.bd/tips-and-tricks/tune-id/470879/attachment/dremel-tool-2" rel="attachment wp-att-470886"><img class="aligncenter size-full wp-image-470886" src="http://s.techtunes.com.bd/tDrive/tuner/sheikhalfaruque/470879/dremel-tool-2.jpg" alt="নিজেই তৈরি করুন মিনি ইলেক্ট্রিক করাত" width="611" height="387" /></a></p>
+<p><strong>তারপর পাইপের টুকারা সাথে একপাশে মোটর ও অন্যপাশে USB Cable এবং সুইচ নিচের চিত্রের মত আঠা দিয়ে লাগিয়ে নিন, নিচের চিত্রের মত করে...</strong></p>
+<p><a href="http://www.techtunes.com.bd/tips-and-tricks/tune-id/470879/attachment/dremel-tool-3" rel="attachment wp-att-470887"><img class="aligncenter size-full wp-image-470887" src="http://s.techtunes.com.bd/tDrive/tuner/sheikhalfaruque/470879/dremel-tool-3.jpg" alt="নিজেই তৈরি করুন মিনি ড্রিমেল টুল" width="671" height="393" /></a></p>
+<p><strong>মোটর, USB Cable, সুইচ এর সংযোগ দিন নিচের চিত্রের মত করে...</strong></p>
+<p><a href="http://www.techtunes.com.bd/tips-and-tricks/tune-id/470879/attachment/dremel-4" rel="attachment wp-att-470889"><img class="aligncenter size-full wp-image-470889" src="http://s.techtunes.com.bd/tDrive/tuner/sheikhalfaruque/470879/dremel-4.jpg" alt="dremel টুল সংযোগ" width="570" height="412" /></a></p>
+<p><strong>এবার পেপসি/সেভেন আপ কর্কটি লাগান নিচের চিত্রের মত করে...</strong></p>
+<p><a href="http://www.techtunes.com.bd/tips-and-tricks/tune-id/470879/attachment/dremel-tool-f" rel="attachment wp-att-470888"><img class="aligncenter size-full wp-image-470888" src="http://s.techtunes.com.bd/tDrive/tuner/sheikhalfaruque/470879/dremel-tool-f.jpg" alt="নিজেই তৈরি করুন Dremel Tool" width="480" height="374" /></a></p>
+<p><strong>তৈরী হয়ে গেল ছোট্ট অসাধারন Dremel টুল/ মিনি ইলেক্ট্রিক করাত। আশা করি অনেক কাজে লাগবে যন্ত্রটি। ভিডিওটি দেখুন কিভাবে তৈরি করবেন এবং কি কি কাজে লাগাবেন, আরোও টিপস পেতে চ্যানেলটি সাবস্ক্রাইব করতে ভুলবেন না।</strong></p>
